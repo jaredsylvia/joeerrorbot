@@ -1,0 +1,15 @@
+{
+  "name": "joe-error-bot",
+  "version": "0.0.0",
+  "description": "JoeErrorBot",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "@robertklep/qbittorrent": "^1.0.1",
+    "gtts": "^0.2.1",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
